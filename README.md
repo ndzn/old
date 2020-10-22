@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on 
 🤔 I’m looking for help with 
 💬 Ask me about
-### 📫 How to reach me: dc: Wumpus#9999
-### 😄 Pronouns: he/him
-### ⚡ Fun fact: i have a github account and your looking at it rn ;)
+ -📫 How to reach me: dc: Wumpus#9999
+ -😄 Pronouns: he/him
+ -⚡ Fun fact: i have a github account and your looking at it rn ;)
 -->
