@@ -2,7 +2,7 @@
 
 # W1ntr (Wumpus)
 
-contact: dc: Wumpus#9999
+Contact: dc: Wumpus#9999
  
 Pronouns: he/him
  
