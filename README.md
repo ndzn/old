@@ -2,11 +2,11 @@
 
 # W1ntr (Wumpus)
 
- 📫 How to reach me: dc: Wumpus#9999
+contact: dc: Wumpus#9999
  
- 😄 Pronouns: he/him
+Pronouns: he/him
  
- ⚡ Fun fact: i have a github account and your looking at it rn ;)
+
 
 
 <p float="left">
