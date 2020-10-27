@@ -3,7 +3,7 @@
  Person with too much free time
 
 ### About me
-- I Mess around with stuff
+- I mess around with stuff
 - noob dev
 - Pronouns: he/him
 
