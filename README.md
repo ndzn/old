@@ -9,7 +9,7 @@
 
 
 ### Contact me
-- Discord: Wumpus#999
+- Discord: Wumpus#9999
 
  
 <p float="left">
