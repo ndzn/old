@@ -6,6 +6,7 @@
 - I mess around with stuff
 - noob dev
 - Pronouns: he/him
+- I work on Light <a href="https://thelightbot.xyz">Light</a>
 
 
 ### Contact me
