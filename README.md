@@ -1,6 +1,4 @@
 # Hi,
- 
- Person with too much free time
 
  
 <p float="left">
