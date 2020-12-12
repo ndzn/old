@@ -1,4 +1,5 @@
-### yoo, im wumpus
+### yoo, im wumpus I develop bots and stuff
+### current project: Light https://thelightbot.xyz
 
  
 <p float="left">
