@@ -1,5 +1,6 @@
 ### yoo, im wumpus I develop bots and stuff
-### current project: Light https://thelightbot.xyz
+### current project: Light https://thelightbot.xyz/
+### add it here: https://thelightbot.xyz/invite
 
  
 <p float="left">
