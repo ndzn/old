@@ -1,4 +1,4 @@
-### yoo, im wumpus
+### yo
 ##### hi i guess
 ##### i do stuff ig
 <img src="https://komarev.com/ghpvc/?username=W1ntr" alt="" align="center" />
