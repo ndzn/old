@@ -2,7 +2,7 @@
 
 ##### i do stuff ig
 
-#### uh i have a discord bot add it if you want
+#### i have a discord bot add it if you want
 
 <a href="https://thelightbot.xyz/invite">Invite</a> 
 
