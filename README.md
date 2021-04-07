@@ -9,5 +9,5 @@
 [![Discord Bots](https://top.gg/api/widget/status/704823131549860000.svg)](https://top.gg/bot/704823131549860000)
 
 <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=W1ntr&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucidwave&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" height="180">
 </p> </h3>
