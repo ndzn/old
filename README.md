@@ -2,9 +2,12 @@
  </h1>
 <img src="https://komarev.com/ghpvc/?username=W1ntr" alt="" align="center" />
 
-<h2>projects</h2>
+<h2>I do networking stuff and also make trash bots</h2>
 
-<a href="https://lightbot.xyz">Light</a> - kinda good Discord bot tbh.<br>
+<h3>Projects:</h3>
+
+<a href="https://lightbot.xyz">Light</a><br>
+
 
 [![Discord Bots](https://top.gg/api/widget/status/704823131549860000.svg)](https://top.gg/bot/704823131549860000)
 
