@@ -2,7 +2,7 @@
  </h1>
 <img src="https://komarev.com/ghpvc/?username=W1ntr" alt="" align="center" />
 
-<h2>I do networking stuff and also make trash bots</h2>
+<h2>I do stuff</h2>
 
 <h3>Projects:</h3>
 
