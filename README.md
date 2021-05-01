@@ -2,7 +2,7 @@
  </h1>
 <img src="https://komarev.com/ghpvc/?username=W1ntr" alt="" align="center" />
 
-#### hi, i see you've come to my profile, welcome, not much here, its pretty empty. I put random stuff here so enjoy.
+#### hi, i see you've stumbled across my profile, welcome, not much here, its pretty empty. I put random stuff here so enjoy.
 
 [![Discord Bots](https://top.gg/api/widget/status/704823131549860000.svg)](https://top.gg/bot/704823131549860000)
 
