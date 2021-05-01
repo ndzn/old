@@ -1,6 +1,11 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"/> yo
- </h1>
+<h1 align="center"> <a href="https://x3.lol/"> <img src="banner.svg" width="800" height="200" alt="hi">
+ </a></h1> 
+ 
+ 
+ 
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"/> yo </h1>
 <img src="https://komarev.com/ghpvc/?username=lucidwave" align="center">
+
 
 #### hi, i see you've stumbled across my profile, welcome, i do stuff.
 stuff i have:
