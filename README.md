@@ -2,12 +2,7 @@
  </h1>
 <img src="https://komarev.com/ghpvc/?username=W1ntr" alt="" align="center" />
 
-<h2>I do stuff</h2>
-
-<h3>Projects:</h3>
-
-<a href="https://lightbot.xyz">Light</a><br>
-
+#### hi, i see you've come to my profile, welcome, not much here, its pretty empty. I put random stuff here so enjoy.
 
 [![Discord Bots](https://top.gg/api/widget/status/704823131549860000.svg)](https://top.gg/bot/704823131549860000)
 
