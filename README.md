@@ -8,4 +8,4 @@
 
 <h3 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucidwave&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" height="180">
-</p> </h3>
+</h3>
