@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"/> yo
  </h1>
-<img src="https://komarev.com/ghpvc/?username=W1ntr" alt="" align="center" />
+<img src="https://komarev.com/ghpvc/?username=lucidwave" align="center">
 
 #### hi, i see you've stumbled across my profile, welcome, not much here, its pretty empty. I put random stuff here so enjoy.
 
