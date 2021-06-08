@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=lucidwave" align="center">
 
 
-#### hi, i see you've stumbled across my profile, welcome, i do stuff. have a look around.
+#### hi, i see you've stumbled across my profile, welcome, ~~i do stuff.~~ have a look around.
 stuff i have:
 - [light discord bot](https://dsc.gg/lightbot)
   - discord bot with a truckload of features
