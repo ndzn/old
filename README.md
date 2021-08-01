@@ -10,7 +10,6 @@
 #### why are you here
 - [light discord bot](https://dsc.gg/lightbot)
   - discord bot with a truckload of features
-- [website](https://x3.lol)
 
 
 [![Discord Bots](https://top.gg/api/widget/status/704823131549860000.svg)](https://top.gg/bot/704823131549860000)
