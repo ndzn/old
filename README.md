@@ -8,7 +8,7 @@
 
 
 #### why are you here
-- [light discord bot](https://dsc.gg/lightbot)
+- [light discord bot](https://lightbot.xyz/invite)
   - discord bot with a truckload of features
 
 
