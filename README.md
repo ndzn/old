@@ -4,6 +4,7 @@
 stop stalking me
 
 - [my discord bot](https://lightbot.xyz/invite)
+- [another cool discord bot](https://slate.dan.onl/invite)
 
 <h3 align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/256569460981366784?theme=dark&hideBadges=true&animated=true&&idleMessage=%F0%9F%98%B4%F0%9F%92%A4" height="180">
