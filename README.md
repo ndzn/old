@@ -1,3 +1,1 @@
-i think i do stuff on the internet, it seems to work, sometimes
-
-99.34635828355% of my repos are private
+[![My Skills](https://skillicons.dev/icons?i=go,html,css,cloudflare,docker,ae,pr,ai,vscode,github,figma)](https://skillicons.dev)
